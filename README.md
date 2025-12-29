@@ -105,15 +105,9 @@ Below are sample outputs from the frontend UI. The images are expected to be add
 <img width="664" height="811" alt="image" src="https://github.com/user-attachments/assets/92250ec0-a439-434e-8de0-d755b7e074d0" />
 
 
-If you want, I can upload the provided PNGs into `assets/screenshots/` and update these paths now — tell me to proceed and I'll add them.
-
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss major changes.
-
-## License
-
-Specify a license (e.g., MIT) in a LICENSE file.
 
 ## Contact
 
