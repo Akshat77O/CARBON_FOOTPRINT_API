@@ -86,6 +86,26 @@ NODE_ENV=development
 API_KEY=your_api_key_here
 ```
 
+## Future Enhancements
+
+Planned improvements and features for upcoming releases:
+
+- Support unit conversions (kg/lbs, km/miles).
+- Add user authentication and save calculation history.
+- Improve UI with accessibility and responsive design.
+- Provide carbon footprint reduction tips based on shipment details.
+- Deploy both frontend and backend on cloud platforms.
+
+## Screenshots
+
+Below are sample outputs from the frontend UI. The images are expected to be added to `assets/screenshots/` as `screenshot1.png` and `screenshot2.png`.
+
+![Carbon Footprint Form](assets/screenshots/screenshot1.png)
+
+![Calculation Result and Chart](assets/screenshots/screenshot2.png)
+
+If you want, I can upload the provided PNGs into `assets/screenshots/` and update these paths now — tell me to proceed and I'll add them.
+
 ## Contributing
 
 Contributions are welcome. Please open an issue first to discuss major changes.
