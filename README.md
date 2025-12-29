@@ -100,9 +100,10 @@ Planned improvements and features for upcoming releases:
 
 Below are sample outputs from the frontend UI. The images are expected to be added to `assets/screenshots/` as `screenshot1.png` and `screenshot2.png`.
 
-![Carbon Footprint Form](assets/screenshots/screenshot1.png)
+<img width="679" height="795" alt="image" src="https://github.com/user-attachments/assets/e5fb901a-7121-42a3-898a-a0a68abd2780" />
 
-![Calculation Result and Chart](assets/screenshots/screenshot2.png)
+<img width="664" height="811" alt="image" src="https://github.com/user-attachments/assets/92250ec0-a439-434e-8de0-d755b7e074d0" />
+
 
 If you want, I can upload the provided PNGs into `assets/screenshots/` and update these paths now — tell me to proceed and I'll add them.
 
