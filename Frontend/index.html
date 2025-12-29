@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Carbon Footprint Calculator</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <div class="container">
+    <h2>🌱 Carbon Footprint Calculator</h2>
+
+    <input id="weight" placeholder="Weight (kg)">
+    <input id="origin" placeholder="Origin ZIP (e.g. 110001)">
+    <input id="destination" placeholder="Destination ZIP (e.g. 560001)">
+
+    <select id="transport">
+      <option value="road">Road</option>
+      <option value="air">Air</option>
+      <option value="sea">Sea</option>
+    </select>
+
+    <select id="packaging">
+      <option value="cardboard">Cardboard</option>
+      <option value="plastic">Plastic</option>
+      <option value="eco">Eco</option>
+    </select>
+
+    <button onclick="calculate()">Calculate</button>
+
+    <div id="result"></div>
+    <canvas id="co2Chart"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
