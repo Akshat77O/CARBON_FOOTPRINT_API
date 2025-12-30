@@ -98,7 +98,7 @@ Planned improvements and features for upcoming releases:
 
 ## Screenshots
 
-Below are sample outputs from the frontend UI. The images are expected to be added to `assets/screenshots/` as `screenshot1.png` and `screenshot2.png`.
+Below are sample outputs from the frontend UI.
 
 <img width="679" height="795" alt="image" src="https://github.com/user-attachments/assets/e5fb901a-7121-42a3-898a-a0a68abd2780" />
 
